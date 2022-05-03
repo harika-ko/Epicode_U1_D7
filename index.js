@@ -42,7 +42,7 @@ Functions-> Functions are a block of code that can be executed.*/
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
 */
 
-/* WRITE YOUR ANSWER HERE */
+console.log(12 + 20)
 
 /* EXERCISE 4
  Create a variable named x and assign to it the number 12.
