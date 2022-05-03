@@ -70,7 +70,17 @@ console.log(12 - x)
  Finally, verify that the equality between name1 and name2 becomes true if both are lowercase (without changing the value of name2).
 */
 
-/* WRITE YOUR ANSWER HERE */
+let name1
+let name2
+
+name1 = "john"
+name2 = "John"
+
+let isEqualityCheck = (name1 == name2)
+console.log(isEqualityCheck)
+
+let isCheckEquality = (name1 === name2.toLowerCase())
+console.log(isCheckEquality)
 
 /* EXERCISE 8
  Create a variable named x, and assign to it a numeric value less than 10.
