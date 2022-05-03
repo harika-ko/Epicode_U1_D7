@@ -48,7 +48,8 @@ console.log(12 + 20)
  Create a variable named x and assign to it the number 12.
 */
 
-/* WRITE YOUR ANSWER HERE */
+let x
+x = 12
 
 /* EXERCISE 5
  Create a variable called name and assign to it the string "John Doe".
