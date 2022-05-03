@@ -118,7 +118,9 @@ console.log(text)
  try to search it by yourself, tomorrow morning we'll discuss it together!)
 */
 
-/* WRITE YOUR ANSWER HERE */
+exampleVar = 12
+variable = exampleVar > 8 ? "11" : "9"
+console.log(variable)
 
 /* WHEN YOU ARE FINISHED
  Upload the .js file on Eduflow before 5PM CET. In the next days we'll also learn how to use GIT!
