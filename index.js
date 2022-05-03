@@ -87,7 +87,31 @@ console.log(isCheckEquality)
  Write the code to print the literal value of x (ex.: if x is 1, it should print "one", if x is 5 it should print "five" etc.).
 */
 
-/* WRITE YOUR ANSWER HERE */
+let xx = 9
+switch (xx) {
+    case 0:
+        text = "Zero"
+    case 1:
+        text = "One"
+    case 2:
+        text = "Two"
+    case 3:
+        text = "Three"
+    case 4:
+        text = "Four"
+    case 2:
+        text = "Five"
+    case 6:
+        text = "Six"
+    case 7:
+        text = "Seven"
+    case 8:
+        text = "Eight"
+    case 9:
+        text = "Nine"
+}
+
+console.log(text)
 
 /* EXERCISE 9
  [Extra] Assign a value to a variable using a ternary operator (this topic has not been covered during lesson yet,
