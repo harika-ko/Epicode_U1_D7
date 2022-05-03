@@ -32,13 +32,11 @@ Objects-> They are the collection of Key-Value properties.
 Functions-> Functions are a block of code that can be executed.*/
 
 
-/* WRITE YOUR ANSWER HERE */
-
 /* EXERCISE 2
  Try to describe what a variable is, in your own words.
 */
 
-/* WRITE YOUR ANSWER HERE */
+/* Variable is a container to which any value can be assigned. */
 
 /* EXERCISE 3
  Write the code to execute an addition (a sum) of the numbers 12 and 20.
