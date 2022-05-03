@@ -62,7 +62,7 @@ name = "John Doe"
  Execute a subtraction between the number 12 and the variable x you declared before (which is storing the value 12).
 */
 
-/* WRITE YOUR ANSWER HERE */
+console.log(12 - x)
 
 /* EXERCISE 7
  Create two variables: name1 and name2. Assign to name1 the string "john", and to name2 the string "John" (this one has a capital J!)
